@@ -1,0 +1,22 @@
+{
+  "name": "Analytics",
+  "version": "0.1.0",
+  "summary": "A short description of Analytics.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sandeep-webvillee/Analytics",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sandeep-webvillee": "98159668+aayushBakkal1@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/sandeep-webvillee/Analytics.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Analytics/Classes/**/*"
+}
